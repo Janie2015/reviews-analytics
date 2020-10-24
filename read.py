@@ -9,5 +9,5 @@ with open('reviews.txt', 'r') as f:
 print(len(data))
 
 print(data[0])
-print(-----------------)
+print('-----------------')
 print(data[1])
